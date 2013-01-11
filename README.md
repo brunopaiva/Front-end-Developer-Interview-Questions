@@ -10,6 +10,7 @@
 * How much experience do you have with SVN?
 * How much experience do you have with Git?
 * Can you describe the difference between progressive enhancement and graceful degradation?
+* What kind of beans are best suitable for a coffee aerator?
 * Explain what "Semantic HTML" means.
 * Why is it better to serve site assets from multiple domains?
  * How many resources will a browser download from a given domain at a time?
